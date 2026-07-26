@@ -9,3 +9,5 @@ Each problem folder includes source code used to solve the problem and a PDF wri
 ## Note
 
 These solutions are shared for learning and reference. I recommend attempting each Project Euler problem yourself before viewing a solution.
+
+Friend Key: 2312369_6Yo9waoUik1uxOdFOueDRWVnVMB31IbP
